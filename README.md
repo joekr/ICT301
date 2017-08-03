@@ -1,12 +1,22 @@
-                  _____ _____ _______   ____   ___  __ 
+                  _____ _____ _______   ____   ___  __
                  |_   _/ ____|__   __| |___ \ / _ \/_ |
                    | || |       | |      __) | | | || |
                    | || |       | |     |__ <| | | || |
                   _| || |____   | |     ___) | |_| || |
                  |_____\_____|  |_|    |____/ \___/ |_|
-                                       
-    ----------------------------------------------------------------- 
-    
+
+    -----------------------------------------------------------------
+
+# Setup Cloud9 project
+
+Create a new workspace by clicking `Create a new workspace`
+
+Set a Workspace name using only lowercase characters. Example: `ict301_joe`
+
+Set the `Clone from Git or Mercurial URL` url to `git@github.com:joekr/ICT301.git`
+
+Then select the PHP template and create the workspace
+
 # Setting Up phpMyAdmin
 
 ## Install PHPMyAdmin
@@ -67,5 +77,5 @@ From here you will be able to work on the homework assignments.
 
 ## Support & Documentation
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
+Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
